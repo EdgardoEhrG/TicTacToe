@@ -2,6 +2,8 @@
 
 > React
 
+> Sass (SCSS)
+
 ## Useful elements
 
 - [ ] Matrix
